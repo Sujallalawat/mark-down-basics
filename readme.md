@@ -157,7 +157,7 @@ H~2~O
 
 ### Superscript
 
-X^2^
+X^2
 
 ### Toggle
 
@@ -170,6 +170,7 @@ Contents of it are here.
 ### Callouts  
 
 :bulb: **Tip:** Remember it properly.  
+
 
 
 - [This is heading 1](#this-is-heading-1)
@@ -186,6 +187,10 @@ Contents of it are here.
     - [Superscript](#superscript)
     - [Toggle](#toggle)
     - [Callouts](#callouts)
+
+
+
+
 
 
 
